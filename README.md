@@ -10,7 +10,7 @@ docker compose up -d
 Как проверить
 curl http://localhost
 
-Ожидаемый ответ: Hello from Effective Mobile!
+Ожидаемый ответ: Hello!
 
 Остановить
 
