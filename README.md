@@ -1,4 +1,5 @@
-Простое веб-приложение: Python backend + Nginx reverse proxy в Docker
+Простое веб-приложение: 
+Python backend + Nginx reverse proxy в Docker
 
 Как запустить
 git clone https://github.com/MalashinG/simpe-reverse-proxy.git
